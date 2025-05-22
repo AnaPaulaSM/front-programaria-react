@@ -17,17 +17,29 @@ Este projeto é uma aplicação front-end construída com **React.js**, como par
 ## 📁 Estrutura do Projeto
 
 front-programaria-react/
+
 ├── public/
+
 │ └── index.html
+
 ├── src/
+
 │ ├── components/ # Componentes reutilizáveis
+
 │ ├── pages/ # Páginas principais
+
 │ ├── App.jsx # Componente raiz
+
 │ ├── main.jsx # Ponto de entrada da aplicação
+
 │ └── index.css # Estilos globais
+
 ├── .gitignore
+
 ├── package.json
+
 └── vite.config.js
+
 
  
  🚀 O projeto utiliza **Vite** como bundler, o que oferece build mais rápido e hot reload eficiente.
